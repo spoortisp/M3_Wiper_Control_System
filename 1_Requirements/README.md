@@ -23,10 +23,26 @@ and made to clear the water from a windscreen.
     
  .where is wiper control system required?
  
-    
+     The system is developed to mitigate driving distractions
+and allow drivers to focus on their primary task of driving. The distraction eliminated with
+the development of this product is the manual adjustment of windshield wipers when driving
+in precipitation. The few seconds that a driver takes their attention off the road to adjust a
+knob while driving in poor weather conditions could potentially lead to car accidents.
  
  .SWOT Analysis
+ 
  .Strengths
+ 
+ It is portable(attachable and detachable), fairly cost effective, worldwide market
+ 
  .Weakness
+ 
+ May be hard to produce, potential problems with mud on visor, may be hard to develop a secure attachment for the device
+ 
  .Opportunities
+ 
+ Highly potential(worldwide market), upgrades could be implemented
+ 
  .Threats
+ 
+ Other existing products, opposition from people/companies that doubt the product
